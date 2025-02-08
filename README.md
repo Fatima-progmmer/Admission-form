@@ -12,9 +12,8 @@ This project is a simple and interactive **Admission Form** built using HTML, CS
 ## 📂 Project Structure  
 ```
 admission-form/
-│── index.html    # Main HTML file containing the form
-│── style.css     # CSS file for styling the form
-│── script.js     # JavaScript file for validation and interactivity
+│── Admission.html    # Main HTML file containing the form
+│── Admission.css     # CSS file for styling the form
 │── README.md     # Project documentation
 ```
 
